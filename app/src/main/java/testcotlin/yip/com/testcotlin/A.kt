@@ -1,4 +1,7 @@
 package testcotlin.yip.com.testcotlin
 
-class A {
+open class A {
+}
+class C:A(){
+    
 }
